@@ -98,7 +98,7 @@ Made by Jaineel Kansara.
 
 ---
 
-For feedback or feature requests, reach out at: your@email.com
+For feedback or feature requests, reach out at: jaineelnkansara@gmail.com
 
 Install dependencies with:
 ```bash
@@ -144,9 +144,9 @@ python qrCode.py
 ## 💡 Examples
 
 - **Text:** `Hello World!`
-- **URL:** `https://www.example.com`
+- **URL:** `www.linkedin.com/in/jaineel-kansara-`
 - **Phone:** `+911234567890`
-- **Email:** `someone@example.com`
+- **Email:** `jaineelnkansara@gmail.com`
 - **WiFi:** `WIFI:S:MySSID;T:WPA;P:mypassword;;`
 - **Contact (vCard):**
   ```
@@ -155,10 +155,10 @@ python qrCode.py
   N:Doe;John;;;
   FN:John Doe
   TEL;TYPE=CELL:1234567890
-  EMAIL:john@example.com
+  EMAIL:jaineelnkansara@gmail.com
   END:VCARD
   ```
-- **Social Media:** `https://instagram.com/yourprofile`
+- **Social Media:** `https://www.instagram.com/jaineel.786?igsh=MThiNHJxZ3YyNGp3ZQ==`
 
 ---
 
@@ -194,7 +194,7 @@ Made with ❤️ for young astronauts and Python learners By Jaineel Kansara.
 
 ## 📧 Contact
 
-For feedback or feature requests, reach out at: your@email.com
+For feedback or feature requests, reach out at: jaineelnkansara@gmail.com
 
 ---
 
